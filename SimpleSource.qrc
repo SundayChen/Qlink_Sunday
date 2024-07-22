@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/Skadi.jpg</file>
+        <file>picture/Texas.png</file>
+        <file>picture/jsd.png</file>
+        <file>picture/dl.png</file>
+        <file>picture/ky.png</file>
+        <file>picture/skd.png</file>
+        <file>picture/Yato.png</file>
+        <file>picture/+1.png</file>
+        <file>picture/Hint.png</file>
+        <file>picture/Shuffle.png</file>
+        <file>picture/hdg.png</file>
+        <file>picture/w.png</file>
+        <file>picture/Luo.png</file>
+        <file>picture/Surtr.jpg</file>
+        <file>picture/6001.png</file>
+        <file>picture/6007.png</file>
+        <file>picture/6009.png</file>
+        <file>picture/Add.png</file>
+        <file>sound/Autumn.mp3</file>
+        <file>sound/Reach (1).mp3</file>
+        <file>sound/Reach (2).mp3</file>
+        <file>sound/Reach (3).mp3</file>
+        <file>sound/Reach (4).mp3</file>
+        <file>sound/Reach (5).mp3</file>
+        <file>sound/Reach (6).mp3</file>
+        <file>sound/Reach (7).mp3</file>
+        <file>sound/Spring.mp3</file>
+        <file>sound/Summer.mp3</file>
+        <file>sound/Winter.mp3</file>
+        <file>sound/Skadi.mp3</file>
+        <file>sound/Ending.mp3</file>
+        <file>sound/DeepSea.mp3</file>
+        <file>sound/SkadiSea.mp3</file>
+        <file>picture/ska1.png</file>
+        <file>picture/ska2.png</file>
+        <file>picture/ska4.png</file>
+        <file>picture/ska5.png</file>
+        <file>picture/ska6.png</file>
+        <file>picture/ska3.png</file>
+        <file>picture/TexasImage.png</file>
+        <file>picture/scene.png</file>
+        <file>picture/Rock1.png</file>
+        <file>picture/Rock2.png</file>
+        <file>picture/Rock3.png</file>
+        <file>picture/Rock4.png</file>
+        <file>font/bender.ttf</file>
+        <file>font/genshin.ttf</file>
+        <file>font/fztys.ttf</file>
+        <file>picture/Texas2.png</file>
+    </qresource>
+</RCC>
